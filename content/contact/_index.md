@@ -1,6 +1,19 @@
 ---
 title: 'Contact'
-date: 2018-02-22T17:01:34+07:00
+date: 2020-01-27
 ---
 
-We offer a free consultation for all new clients.
+We offer a free consultation for all new clients. Contact us with the details of what you are looking for and we will start working on your request.
+
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/xdognekg" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Full Name</label>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+    <label for="email-address">Email Address</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <label for="message">Message</label>
+    <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+  </fieldset>
+  <input type="submit" value="Submit">
+</form>

@@ -4,6 +4,9 @@ title = "Meteoric Enterprises"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
+[markup.goldmark.renderer]
+    unsafe= true
+
 [params]
   google_analytics_id=""
 
