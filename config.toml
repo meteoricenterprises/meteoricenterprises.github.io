@@ -1,0 +1,4 @@
+baseURL = "http://www.meteoricenterprises.com/"
+languageCode = "en-us"
+title = "Meteoric Enterprises"
+theme = "hugo-hero-theme"
