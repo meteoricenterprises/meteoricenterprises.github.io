@@ -1,4 +1,4 @@
-baseURL = "www.meteoricenterprises.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "Meteoric Enterprises"
 themesDir = "themes"
